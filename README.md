@@ -4,6 +4,8 @@ An end-to-end data analytics project analyzing **13,460 IT tickets** to understa
 
 The project uses **Python/Pandas for data cleaning and exploratory analysis** and **Tableau for interactive dashboard development**.
 
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/HelpdeskTicketOperationsDashboard/HelpdeskTicketOperationsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
 ---
 
 ## 📌 Project Overview
