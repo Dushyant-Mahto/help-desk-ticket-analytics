@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python cache
+.pytest_cache/
+
+# Local environment
+.env
+
+# Tableau temporary files
+*.tmp
+
+# Large/raw datasets
+data/raw/*.csv
+
+# Tableau lock files
+*.twb~lock
+*.tfl~lock
