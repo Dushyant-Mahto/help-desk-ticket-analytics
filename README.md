@@ -4,8 +4,6 @@ An end-to-end data analytics project analyzing **13,460 IT tickets** to understa
 
 The project uses **Python/Pandas for data cleaning and exploratory analysis** and **Tableau for interactive dashboard development**.
 
-> **Note:** This README reflects the corrected dataset and recalculated dashboard metrics. Earlier drafts of this project used a larger, uncorrected ticket count (66,691) — the figures below supersede those.
-
 ---
 
 ## 📌 Project Overview
