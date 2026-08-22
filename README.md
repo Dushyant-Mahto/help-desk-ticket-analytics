@@ -312,49 +312,6 @@ The same 10 projects continue to dominate ticket volume — `t.n2` and `C06hg2xc
 
 ---
 
-# 📁 Suggested Repository Structure
-
-\`\`\`text
-IT-Incident-Ticket-Analytics/
-│
-├── data/
-│   └── issues_clean.csv
-│
-├── notebooks/
-│   └── incident_ticket_analysis.ipynb
-│
-├── dashboard/
-│   └── IT_Incident_Dashboard.twbx
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-\`\`\`
-
----
-
-# 📌 Key Skills Demonstrated
-
-**Data Analysis:** EDA, Data Cleaning, Missing Value Analysis, Outlier Analysis, Descriptive Statistics, Aggregation, Trend Analysis, KPI Development, Feature Engineering
-**Python:** Pandas, NumPy, Datetime manipulation, GroupBy operations, Aggregations, Data transformation
-**Tableau:** Interactive dashboards, KPI cards, Time-series visualization, Bar charts, Filtering, Dashboard design, Business storytelling
-**Business & Operational Analytics:** IT incident analytics, Helpdesk analytics, Ticket lifecycle analysis, Resolution performance, Workload analysis, Bottleneck identification
-
----
-
-# 🚀 Future Improvements
-
-- SLA compliance analysis
-- Ticket aging analysis
-- Resolution-time percentiles (90th, 95th)
-- Root-cause analysis of recurring issues (esp. top 10 projects)
-- Investigate the Low/Medium workflow-complexity reversal
-- Predictive resolution-time modeling
-- Automated BI reporting
-
----
-
 # 🏁 Conclusion
 
 This project demonstrates how large-scale IT ticket data can be transformed into actionable operational insights using Python and Tableau. The strongest, most consistent finding across both dataset versions is the substantial resolution-time gap between assigned and unassigned tickets. Priority-data completeness and workflow complexity continue to be meaningful drivers of resolution performance, while the corrected dataset surfaces a new pattern — the Low/Medium complexity reversal — worth investigating further.
